@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9c694-1766-4748-ae03-3e588387dadf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/apptest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
@@ -78,7 +80,7 @@
       <updated>1677331723327</updated>
       <workItem from="1677331724401" duration="170000" />
       <workItem from="1677331898101" duration="2466000" />
-      <workItem from="1677334373954" duration="679000" />
+      <workItem from="1677334373954" duration="997000" />
     </task>
     <servers />
   </component>
